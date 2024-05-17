@@ -1,0 +1,1001 @@
+package_id,package_name,service_type,monthly_rate
+1,Super Ladies Package,Broadband,33.32
+2,Stay Home Weekly Bundle,Mobile,20.38
+3,Work From Home Bundle,Mobile,96.72
+4,Super Ladies Package,Mobile,45.05
+5,Stay Home Weekly Bundle,Streaming,28.35
+6,Business Continuity Package,Broadband,83.6
+7,Stay Home Weekly Bundle,Mobile,30.65
+8,Stay Home Weekly Bundle,Broadband,18.67
+9,Stay Home Weekly Bundle,Streaming,40.3
+10,Business Continuity Package,Mobile,50.47
+11,Business Continuity Package,Mobile,73.91
+12,Super Ladies Package,Streaming,65.34
+13,Stay Home Weekly Bundle,Streaming,32.54
+14,Super Ladies Package,Streaming,81.32
+15,Work From Home Bundle,Streaming,18.67
+16,Business Continuity Package,Broadband,97.81
+17,Business Continuity Package,Mobile,96.89
+18,Stay Home Weekly Bundle,Mobile,66.39
+19,Stay Home Weekly Bundle,Broadband,35.13
+20,Work From Home Bundle,Broadband,26.98
+21,Stay Home Weekly Bundle,Streaming,19.54
+22,Work From Home Bundle,Mobile,10.7
+23,Business Continuity Package,Broadband,93.38
+24,Work From Home Bundle,Broadband,97.35
+25,Business Continuity Package,Mobile,59.55
+26,Super Ladies Package,Streaming,15.97
+27,Work From Home Bundle,Streaming,69.68
+28,Business Continuity Package,Mobile,89.98
+29,Stay Home Weekly Bundle,Broadband,79.22
+30,Work From Home Bundle,Streaming,57.54
+31,Stay Home Weekly Bundle,Mobile,30.15
+32,Business Continuity Package,Streaming,36.96
+33,Work From Home Bundle,Mobile,70.96
+34,Stay Home Weekly Bundle,Broadband,27.01
+35,Business Continuity Package,Broadband,77.09
+36,Super Ladies Package,Streaming,84.68
+37,Business Continuity Package,Mobile,41.19
+38,Super Ladies Package,Broadband,36.35
+39,Stay Home Weekly Bundle,Streaming,45.27
+40,Stay Home Weekly Bundle,Streaming,81.41
+41,Work From Home Bundle,Broadband,18.79
+42,Stay Home Weekly Bundle,Mobile,62.5
+43,Stay Home Weekly Bundle,Streaming,57.95
+44,Business Continuity Package,Broadband,22.95
+45,Stay Home Weekly Bundle,Streaming,76.41
+46,Work From Home Bundle,Mobile,22.62
+47,Super Ladies Package,Broadband,71.68
+48,Business Continuity Package,Streaming,41.7
+49,Work From Home Bundle,Broadband,18.75
+50,Work From Home Bundle,Streaming,46.05
+51,Stay Home Weekly Bundle,Mobile,63.32
+52,Business Continuity Package,Mobile,60.83
+53,Super Ladies Package,Broadband,87.23
+54,Super Ladies Package,Streaming,38.86
+55,Super Ladies Package,Mobile,33.38
+56,Work From Home Bundle,Streaming,21.9
+57,Super Ladies Package,Streaming,21.08
+58,Stay Home Weekly Bundle,Streaming,73.94
+59,Business Continuity Package,Broadband,36.67
+60,Stay Home Weekly Bundle,Streaming,23.97
+61,Business Continuity Package,Broadband,20.57
+62,Work From Home Bundle,Mobile,44.65
+63,Business Continuity Package,Broadband,15.89
+64,Super Ladies Package,Streaming,83.21
+65,Work From Home Bundle,Streaming,23.41
+66,Super Ladies Package,Broadband,33.16
+67,Super Ladies Package,Broadband,76.16
+68,Work From Home Bundle,Broadband,30.99
+69,Stay Home Weekly Bundle,Mobile,77.36
+70,Work From Home Bundle,Mobile,95.61
+71,Business Continuity Package,Broadband,44.45
+72,Business Continuity Package,Mobile,75.43
+73,Super Ladies Package,Mobile,74.78
+74,Stay Home Weekly Bundle,Mobile,17.04
+75,Super Ladies Package,Mobile,54.51
+76,Stay Home Weekly Bundle,Mobile,22.26
+77,Business Continuity Package,Mobile,72.31
+78,Super Ladies Package,Streaming,64.13
+79,Work From Home Bundle,Mobile,84.75
+80,Stay Home Weekly Bundle,Broadband,73.02
+81,Stay Home Weekly Bundle,Streaming,75.53
+82,Work From Home Bundle,Streaming,28.5
+83,Stay Home Weekly Bundle,Streaming,12.15
+84,Stay Home Weekly Bundle,Mobile,79.27
+85,Stay Home Weekly Bundle,Streaming,41.63
+86,Stay Home Weekly Bundle,Mobile,63.93
+87,Work From Home Bundle,Mobile,73.95
+88,Business Continuity Package,Broadband,33.66
+89,Super Ladies Package,Broadband,22.58
+90,Work From Home Bundle,Broadband,54.68
+91,Super Ladies Package,Streaming,17.53
+92,Super Ladies Package,Mobile,88.55
+93,Stay Home Weekly Bundle,Streaming,55.28
+94,Stay Home Weekly Bundle,Broadband,93.16
+95,Stay Home Weekly Bundle,Broadband,93.68
+96,Work From Home Bundle,Broadband,81.62
+97,Work From Home Bundle,Mobile,36.78
+98,Business Continuity Package,Mobile,13.6
+99,Work From Home Bundle,Broadband,77.02
+100,Work From Home Bundle,Streaming,53.99
+101,Work From Home Bundle,Broadband,80.96
+102,Stay Home Weekly Bundle,Broadband,79.15
+103,Business Continuity Package,Streaming,37.58
+104,Business Continuity Package,Streaming,98.96
+105,Stay Home Weekly Bundle,Streaming,27.56
+106,Business Continuity Package,Broadband,55.76
+107,Work From Home Bundle,Broadband,25.63
+108,Work From Home Bundle,Streaming,66.56
+109,Super Ladies Package,Streaming,27.66
+110,Business Continuity Package,Broadband,30.01
+111,Business Continuity Package,Mobile,66.31
+112,Work From Home Bundle,Mobile,96.69
+113,Super Ladies Package,Broadband,83.48
+114,Super Ladies Package,Broadband,71.72
+115,Work From Home Bundle,Broadband,86.39
+116,Super Ladies Package,Broadband,35.75
+117,Super Ladies Package,Streaming,93.57
+118,Stay Home Weekly Bundle,Streaming,24.54
+119,Business Continuity Package,Mobile,57.33
+120,Work From Home Bundle,Streaming,10.51
+121,Business Continuity Package,Streaming,38.36
+122,Super Ladies Package,Streaming,39.9
+123,Super Ladies Package,Broadband,50.2
+124,Business Continuity Package,Mobile,99.36
+125,Super Ladies Package,Mobile,73.17
+126,Business Continuity Package,Streaming,47.09
+127,Super Ladies Package,Broadband,37.28
+128,Super Ladies Package,Streaming,71.69
+129,Super Ladies Package,Broadband,55.36
+130,Super Ladies Package,Mobile,29.48
+131,Stay Home Weekly Bundle,Mobile,57.77
+132,Super Ladies Package,Broadband,58.82
+133,Business Continuity Package,Mobile,33.41
+134,Work From Home Bundle,Streaming,37.78
+135,Stay Home Weekly Bundle,Mobile,89.98
+136,Business Continuity Package,Broadband,29.67
+137,Business Continuity Package,Broadband,31.07
+138,Business Continuity Package,Mobile,84.65
+139,Business Continuity Package,Mobile,73.21
+140,Super Ladies Package,Broadband,37.33
+141,Work From Home Bundle,Broadband,87.98
+142,Super Ladies Package,Streaming,57.68
+143,Work From Home Bundle,Streaming,67.19
+144,Stay Home Weekly Bundle,Mobile,15.06
+145,Super Ladies Package,Broadband,69.34
+146,Work From Home Bundle,Broadband,23.44
+147,Stay Home Weekly Bundle,Mobile,69.63
+148,Stay Home Weekly Bundle,Broadband,69.1
+149,Super Ladies Package,Streaming,14.48
+150,Work From Home Bundle,Streaming,31.15
+151,Super Ladies Package,Mobile,46.7
+152,Work From Home Bundle,Streaming,47.47
+153,Work From Home Bundle,Mobile,91.44
+154,Super Ladies Package,Broadband,73.19
+155,Stay Home Weekly Bundle,Streaming,71.17
+156,Work From Home Bundle,Streaming,70.99
+157,Business Continuity Package,Mobile,92.51
+158,Stay Home Weekly Bundle,Mobile,73.02
+159,Super Ladies Package,Mobile,11.89
+160,Stay Home Weekly Bundle,Mobile,86.57
+161,Super Ladies Package,Streaming,24.59
+162,Stay Home Weekly Bundle,Mobile,26.03
+163,Super Ladies Package,Broadband,57.93
+164,Work From Home Bundle,Mobile,18.25
+165,Work From Home Bundle,Broadband,93.97
+166,Work From Home Bundle,Streaming,48.17
+167,Work From Home Bundle,Broadband,52.98
+168,Super Ladies Package,Mobile,95.92
+169,Stay Home Weekly Bundle,Streaming,83.58
+170,Business Continuity Package,Broadband,22.8
+171,Stay Home Weekly Bundle,Mobile,82.32
+172,Business Continuity Package,Mobile,21.33
+173,Stay Home Weekly Bundle,Mobile,74.94
+174,Work From Home Bundle,Streaming,97.34
+175,Business Continuity Package,Mobile,40.96
+176,Business Continuity Package,Streaming,21.2
+177,Business Continuity Package,Streaming,59.99
+178,Super Ladies Package,Streaming,85.04
+179,Business Continuity Package,Mobile,74.87
+180,Stay Home Weekly Bundle,Streaming,93.35
+181,Business Continuity Package,Streaming,83.47
+182,Work From Home Bundle,Mobile,43.51
+183,Stay Home Weekly Bundle,Streaming,56.73
+184,Super Ladies Package,Mobile,41.63
+185,Business Continuity Package,Streaming,37.83
+186,Super Ladies Package,Streaming,72.44
+187,Work From Home Bundle,Mobile,66.09
+188,Business Continuity Package,Mobile,78.07
+189,Business Continuity Package,Streaming,62.12
+190,Business Continuity Package,Mobile,63.86
+191,Stay Home Weekly Bundle,Mobile,82.01
+192,Business Continuity Package,Mobile,66.64
+193,Business Continuity Package,Mobile,99.1
+194,Stay Home Weekly Bundle,Mobile,18.45
+195,Super Ladies Package,Broadband,32.39
+196,Business Continuity Package,Mobile,38.88
+197,Work From Home Bundle,Mobile,49.73
+198,Super Ladies Package,Streaming,60.77
+199,Stay Home Weekly Bundle,Streaming,72.63
+200,Stay Home Weekly Bundle,Broadband,72.83
+201,Business Continuity Package,Broadband,28.49
+202,Work From Home Bundle,Broadband,17.32
+203,Stay Home Weekly Bundle,Broadband,18.51
+204,Work From Home Bundle,Streaming,62.01
+205,Stay Home Weekly Bundle,Streaming,80.16
+206,Work From Home Bundle,Broadband,71.97
+207,Work From Home Bundle,Broadband,51.05
+208,Business Continuity Package,Broadband,99.92
+209,Work From Home Bundle,Broadband,45.04
+210,Stay Home Weekly Bundle,Streaming,66.58
+211,Stay Home Weekly Bundle,Mobile,86.36
+212,Stay Home Weekly Bundle,Streaming,81.96
+213,Super Ladies Package,Mobile,25.04
+214,Business Continuity Package,Broadband,66.01
+215,Work From Home Bundle,Streaming,14.49
+216,Stay Home Weekly Bundle,Mobile,43.25
+217,Business Continuity Package,Broadband,94.93
+218,Stay Home Weekly Bundle,Broadband,10.07
+219,Super Ladies Package,Mobile,70.23
+220,Business Continuity Package,Mobile,73.27
+221,Super Ladies Package,Streaming,81.24
+222,Super Ladies Package,Broadband,60.1
+223,Work From Home Bundle,Mobile,46.96
+224,Business Continuity Package,Streaming,54.21
+225,Stay Home Weekly Bundle,Broadband,39.99
+226,Work From Home Bundle,Streaming,56.59
+227,Super Ladies Package,Broadband,25.43
+228,Work From Home Bundle,Mobile,91.96
+229,Business Continuity Package,Mobile,84.88
+230,Business Continuity Package,Mobile,65.71
+231,Super Ladies Package,Mobile,44.12
+232,Stay Home Weekly Bundle,Broadband,17.94
+233,Work From Home Bundle,Mobile,73.95
+234,Business Continuity Package,Streaming,76.7
+235,Stay Home Weekly Bundle,Streaming,80.72
+236,Work From Home Bundle,Mobile,11.67
+237,Work From Home Bundle,Streaming,66.26
+238,Stay Home Weekly Bundle,Mobile,68.03
+239,Work From Home Bundle,Streaming,42.4
+240,Work From Home Bundle,Streaming,42.03
+241,Work From Home Bundle,Broadband,49.0
+242,Work From Home Bundle,Streaming,53.49
+243,Super Ladies Package,Broadband,16.68
+244,Business Continuity Package,Broadband,91.95
+245,Super Ladies Package,Streaming,69.46
+246,Stay Home Weekly Bundle,Mobile,84.67
+247,Stay Home Weekly Bundle,Broadband,11.53
+248,Super Ladies Package,Broadband,78.35
+249,Stay Home Weekly Bundle,Broadband,53.07
+250,Stay Home Weekly Bundle,Streaming,39.62
+251,Super Ladies Package,Streaming,71.97
+252,Super Ladies Package,Broadband,27.9
+253,Business Continuity Package,Broadband,96.36
+254,Stay Home Weekly Bundle,Mobile,73.28
+255,Super Ladies Package,Streaming,80.45
+256,Super Ladies Package,Streaming,10.34
+257,Stay Home Weekly Bundle,Broadband,88.36
+258,Business Continuity Package,Mobile,66.32
+259,Super Ladies Package,Mobile,76.01
+260,Work From Home Bundle,Mobile,90.01
+261,Super Ladies Package,Streaming,67.82
+262,Super Ladies Package,Streaming,88.67
+263,Stay Home Weekly Bundle,Mobile,45.83
+264,Stay Home Weekly Bundle,Streaming,69.81
+265,Super Ladies Package,Broadband,72.42
+266,Stay Home Weekly Bundle,Mobile,30.22
+267,Stay Home Weekly Bundle,Broadband,20.73
+268,Stay Home Weekly Bundle,Broadband,19.58
+269,Work From Home Bundle,Streaming,18.81
+270,Business Continuity Package,Broadband,66.08
+271,Work From Home Bundle,Mobile,41.17
+272,Work From Home Bundle,Broadband,61.49
+273,Work From Home Bundle,Streaming,21.31
+274,Work From Home Bundle,Mobile,34.35
+275,Business Continuity Package,Streaming,62.06
+276,Business Continuity Package,Streaming,84.2
+277,Stay Home Weekly Bundle,Mobile,50.07
+278,Business Continuity Package,Broadband,26.33
+279,Super Ladies Package,Mobile,13.09
+280,Work From Home Bundle,Broadband,88.74
+281,Work From Home Bundle,Mobile,78.4
+282,Work From Home Bundle,Mobile,92.17
+283,Business Continuity Package,Mobile,74.24
+284,Business Continuity Package,Mobile,49.64
+285,Business Continuity Package,Mobile,34.08
+286,Super Ladies Package,Mobile,34.74
+287,Stay Home Weekly Bundle,Broadband,13.25
+288,Business Continuity Package,Streaming,58.29
+289,Business Continuity Package,Broadband,17.21
+290,Super Ladies Package,Mobile,62.39
+291,Business Continuity Package,Mobile,71.47
+292,Work From Home Bundle,Mobile,70.77
+293,Work From Home Bundle,Mobile,36.77
+294,Super Ladies Package,Streaming,73.0
+295,Stay Home Weekly Bundle,Streaming,24.56
+296,Business Continuity Package,Mobile,80.26
+297,Stay Home Weekly Bundle,Mobile,84.5
+298,Stay Home Weekly Bundle,Mobile,84.88
+299,Super Ladies Package,Mobile,40.0
+300,Super Ladies Package,Streaming,97.84
+301,Stay Home Weekly Bundle,Streaming,82.62
+302,Work From Home Bundle,Broadband,51.96
+303,Stay Home Weekly Bundle,Broadband,61.94
+304,Business Continuity Package,Mobile,23.58
+305,Super Ladies Package,Broadband,81.97
+306,Work From Home Bundle,Streaming,78.9
+307,Super Ladies Package,Broadband,83.46
+308,Stay Home Weekly Bundle,Broadband,15.22
+309,Business Continuity Package,Mobile,19.73
+310,Stay Home Weekly Bundle,Mobile,50.09
+311,Stay Home Weekly Bundle,Mobile,44.72
+312,Stay Home Weekly Bundle,Streaming,96.24
+313,Stay Home Weekly Bundle,Broadband,85.44
+314,Work From Home Bundle,Mobile,64.55
+315,Business Continuity Package,Broadband,80.87
+316,Stay Home Weekly Bundle,Mobile,96.94
+317,Stay Home Weekly Bundle,Broadband,21.24
+318,Stay Home Weekly Bundle,Mobile,41.1
+319,Business Continuity Package,Broadband,22.11
+320,Business Continuity Package,Mobile,74.36
+321,Work From Home Bundle,Broadband,19.65
+322,Business Continuity Package,Broadband,48.32
+323,Stay Home Weekly Bundle,Mobile,68.35
+324,Super Ladies Package,Broadband,37.38
+325,Business Continuity Package,Broadband,98.48
+326,Super Ladies Package,Broadband,37.85
+327,Work From Home Bundle,Mobile,45.57
+328,Stay Home Weekly Bundle,Mobile,21.32
+329,Business Continuity Package,Broadband,87.39
+330,Business Continuity Package,Streaming,39.0
+331,Super Ladies Package,Broadband,49.91
+332,Work From Home Bundle,Mobile,35.09
+333,Business Continuity Package,Mobile,10.99
+334,Work From Home Bundle,Streaming,98.56
+335,Business Continuity Package,Mobile,95.7
+336,Work From Home Bundle,Streaming,27.99
+337,Business Continuity Package,Streaming,25.83
+338,Stay Home Weekly Bundle,Streaming,88.11
+339,Stay Home Weekly Bundle,Broadband,70.55
+340,Business Continuity Package,Streaming,87.86
+341,Business Continuity Package,Streaming,95.03
+342,Business Continuity Package,Broadband,28.84
+343,Business Continuity Package,Streaming,88.69
+344,Work From Home Bundle,Streaming,64.19
+345,Work From Home Bundle,Broadband,26.6
+346,Stay Home Weekly Bundle,Broadband,63.21
+347,Business Continuity Package,Streaming,26.72
+348,Stay Home Weekly Bundle,Streaming,49.27
+349,Work From Home Bundle,Mobile,18.22
+350,Super Ladies Package,Broadband,36.46
+351,Stay Home Weekly Bundle,Broadband,91.02
+352,Business Continuity Package,Broadband,98.02
+353,Stay Home Weekly Bundle,Streaming,11.07
+354,Stay Home Weekly Bundle,Mobile,44.81
+355,Stay Home Weekly Bundle,Streaming,50.38
+356,Stay Home Weekly Bundle,Streaming,75.43
+357,Stay Home Weekly Bundle,Mobile,97.14
+358,Work From Home Bundle,Mobile,35.31
+359,Work From Home Bundle,Mobile,54.66
+360,Super Ladies Package,Streaming,84.21
+361,Work From Home Bundle,Streaming,70.43
+362,Work From Home Bundle,Broadband,17.99
+363,Business Continuity Package,Mobile,22.36
+364,Super Ladies Package,Broadband,82.32
+365,Business Continuity Package,Mobile,36.02
+366,Stay Home Weekly Bundle,Streaming,32.03
+367,Business Continuity Package,Broadband,32.23
+368,Stay Home Weekly Bundle,Broadband,52.93
+369,Super Ladies Package,Broadband,44.23
+370,Work From Home Bundle,Broadband,87.47
+371,Business Continuity Package,Mobile,74.84
+372,Business Continuity Package,Mobile,52.73
+373,Super Ladies Package,Streaming,51.22
+374,Business Continuity Package,Mobile,90.83
+375,Stay Home Weekly Bundle,Mobile,36.3
+376,Super Ladies Package,Streaming,21.7
+377,Business Continuity Package,Broadband,41.54
+378,Stay Home Weekly Bundle,Streaming,34.78
+379,Business Continuity Package,Broadband,11.72
+380,Business Continuity Package,Streaming,17.09
+381,Stay Home Weekly Bundle,Mobile,67.74
+382,Business Continuity Package,Streaming,98.15
+383,Stay Home Weekly Bundle,Streaming,55.71
+384,Stay Home Weekly Bundle,Broadband,50.21
+385,Work From Home Bundle,Mobile,95.29
+386,Super Ladies Package,Streaming,37.31
+387,Business Continuity Package,Broadband,35.97
+388,Business Continuity Package,Streaming,89.83
+389,Super Ladies Package,Broadband,48.6
+390,Work From Home Bundle,Broadband,25.97
+391,Stay Home Weekly Bundle,Mobile,97.38
+392,Business Continuity Package,Streaming,18.89
+393,Stay Home Weekly Bundle,Streaming,84.25
+394,Work From Home Bundle,Broadband,17.68
+395,Stay Home Weekly Bundle,Mobile,26.27
+396,Work From Home Bundle,Mobile,76.27
+397,Work From Home Bundle,Broadband,35.64
+398,Stay Home Weekly Bundle,Streaming,94.67
+399,Business Continuity Package,Broadband,33.17
+400,Business Continuity Package,Broadband,74.62
+401,Business Continuity Package,Streaming,39.41
+402,Work From Home Bundle,Mobile,36.89
+403,Stay Home Weekly Bundle,Streaming,43.4
+404,Stay Home Weekly Bundle,Streaming,92.16
+405,Super Ladies Package,Streaming,30.22
+406,Stay Home Weekly Bundle,Streaming,15.39
+407,Business Continuity Package,Streaming,29.82
+408,Business Continuity Package,Broadband,94.45
+409,Stay Home Weekly Bundle,Mobile,47.28
+410,Super Ladies Package,Mobile,88.7
+411,Stay Home Weekly Bundle,Streaming,17.11
+412,Business Continuity Package,Streaming,61.01
+413,Super Ladies Package,Streaming,92.07
+414,Business Continuity Package,Mobile,69.83
+415,Super Ladies Package,Broadband,49.79
+416,Business Continuity Package,Streaming,20.14
+417,Business Continuity Package,Mobile,91.49
+418,Stay Home Weekly Bundle,Streaming,13.52
+419,Business Continuity Package,Mobile,70.9
+420,Work From Home Bundle,Mobile,94.29
+421,Business Continuity Package,Mobile,96.95
+422,Super Ladies Package,Streaming,12.66
+423,Work From Home Bundle,Broadband,57.9
+424,Work From Home Bundle,Streaming,39.34
+425,Business Continuity Package,Broadband,54.46
+426,Work From Home Bundle,Mobile,66.73
+427,Business Continuity Package,Mobile,73.54
+428,Super Ladies Package,Broadband,36.65
+429,Business Continuity Package,Broadband,38.1
+430,Business Continuity Package,Broadband,40.7
+431,Stay Home Weekly Bundle,Mobile,30.91
+432,Business Continuity Package,Streaming,70.73
+433,Stay Home Weekly Bundle,Broadband,83.76
+434,Business Continuity Package,Streaming,31.66
+435,Work From Home Bundle,Broadband,21.78
+436,Super Ladies Package,Broadband,71.66
+437,Super Ladies Package,Mobile,73.22
+438,Business Continuity Package,Broadband,63.88
+439,Work From Home Bundle,Broadband,50.42
+440,Work From Home Bundle,Streaming,67.6
+441,Super Ladies Package,Broadband,95.43
+442,Super Ladies Package,Mobile,49.65
+443,Business Continuity Package,Broadband,19.86
+444,Super Ladies Package,Broadband,87.5
+445,Super Ladies Package,Broadband,71.39
+446,Stay Home Weekly Bundle,Broadband,71.85
+447,Business Continuity Package,Streaming,77.58
+448,Business Continuity Package,Streaming,82.23
+449,Work From Home Bundle,Broadband,28.77
+450,Work From Home Bundle,Broadband,14.85
+451,Work From Home Bundle,Streaming,40.01
+452,Stay Home Weekly Bundle,Streaming,50.87
+453,Super Ladies Package,Broadband,43.14
+454,Super Ladies Package,Streaming,56.45
+455,Super Ladies Package,Broadband,88.35
+456,Stay Home Weekly Bundle,Broadband,54.19
+457,Work From Home Bundle,Mobile,70.58
+458,Business Continuity Package,Streaming,50.07
+459,Super Ladies Package,Broadband,75.22
+460,Work From Home Bundle,Mobile,21.51
+461,Business Continuity Package,Streaming,88.15
+462,Business Continuity Package,Mobile,17.11
+463,Super Ladies Package,Mobile,36.6
+464,Work From Home Bundle,Broadband,58.24
+465,Business Continuity Package,Streaming,26.88
+466,Work From Home Bundle,Broadband,92.3
+467,Super Ladies Package,Streaming,81.34
+468,Stay Home Weekly Bundle,Broadband,92.43
+469,Super Ladies Package,Mobile,35.08
+470,Work From Home Bundle,Broadband,87.19
+471,Business Continuity Package,Broadband,80.56
+472,Business Continuity Package,Mobile,66.58
+473,Work From Home Bundle,Streaming,65.32
+474,Work From Home Bundle,Streaming,39.12
+475,Super Ladies Package,Mobile,72.02
+476,Work From Home Bundle,Streaming,60.61
+477,Super Ladies Package,Broadband,19.79
+478,Stay Home Weekly Bundle,Broadband,90.8
+479,Super Ladies Package,Broadband,20.45
+480,Business Continuity Package,Mobile,87.73
+481,Super Ladies Package,Streaming,16.55
+482,Stay Home Weekly Bundle,Broadband,59.39
+483,Business Continuity Package,Streaming,83.92
+484,Work From Home Bundle,Streaming,19.84
+485,Super Ladies Package,Mobile,20.95
+486,Stay Home Weekly Bundle,Mobile,61.8
+487,Work From Home Bundle,Streaming,47.76
+488,Super Ladies Package,Mobile,31.99
+489,Work From Home Bundle,Streaming,58.27
+490,Business Continuity Package,Mobile,90.0
+491,Stay Home Weekly Bundle,Mobile,74.63
+492,Stay Home Weekly Bundle,Streaming,63.77
+493,Stay Home Weekly Bundle,Broadband,47.89
+494,Stay Home Weekly Bundle,Mobile,93.85
+495,Stay Home Weekly Bundle,Mobile,45.49
+496,Stay Home Weekly Bundle,Mobile,45.25
+497,Super Ladies Package,Broadband,62.53
+498,Work From Home Bundle,Streaming,46.94
+499,Business Continuity Package,Broadband,20.53
+500,Business Continuity Package,Mobile,39.25
+501,Stay Home Weekly Bundle,Broadband,87.29
+502,Work From Home Bundle,Streaming,46.09
+503,Stay Home Weekly Bundle,Mobile,90.96
+504,Business Continuity Package,Streaming,11.04
+505,Business Continuity Package,Streaming,65.81
+506,Work From Home Bundle,Mobile,67.32
+507,Work From Home Bundle,Mobile,11.65
+508,Business Continuity Package,Streaming,86.72
+509,Work From Home Bundle,Broadband,60.3
+510,Business Continuity Package,Mobile,19.13
+511,Business Continuity Package,Broadband,24.83
+512,Business Continuity Package,Mobile,26.27
+513,Business Continuity Package,Mobile,63.05
+514,Business Continuity Package,Broadband,73.85
+515,Business Continuity Package,Mobile,28.46
+516,Super Ladies Package,Streaming,97.33
+517,Business Continuity Package,Broadband,89.37
+518,Work From Home Bundle,Mobile,25.34
+519,Super Ladies Package,Broadband,35.21
+520,Business Continuity Package,Mobile,48.43
+521,Stay Home Weekly Bundle,Mobile,61.49
+522,Stay Home Weekly Bundle,Streaming,65.4
+523,Business Continuity Package,Streaming,82.71
+524,Super Ladies Package,Streaming,79.75
+525,Stay Home Weekly Bundle,Mobile,87.33
+526,Super Ladies Package,Mobile,18.85
+527,Stay Home Weekly Bundle,Broadband,83.64
+528,Business Continuity Package,Mobile,41.02
+529,Business Continuity Package,Streaming,17.7
+530,Super Ladies Package,Mobile,17.03
+531,Stay Home Weekly Bundle,Mobile,96.79
+532,Business Continuity Package,Broadband,65.39
+533,Stay Home Weekly Bundle,Mobile,70.59
+534,Business Continuity Package,Mobile,78.88
+535,Stay Home Weekly Bundle,Streaming,26.72
+536,Business Continuity Package,Mobile,43.08
+537,Super Ladies Package,Mobile,69.35
+538,Stay Home Weekly Bundle,Streaming,51.63
+539,Super Ladies Package,Streaming,64.15
+540,Work From Home Bundle,Streaming,23.67
+541,Business Continuity Package,Streaming,60.32
+542,Business Continuity Package,Streaming,62.5
+543,Business Continuity Package,Broadband,46.91
+544,Super Ladies Package,Broadband,93.96
+545,Stay Home Weekly Bundle,Mobile,20.44
+546,Stay Home Weekly Bundle,Mobile,77.12
+547,Super Ladies Package,Broadband,23.87
+548,Super Ladies Package,Broadband,79.75
+549,Business Continuity Package,Streaming,38.1
+550,Stay Home Weekly Bundle,Mobile,42.03
+551,Stay Home Weekly Bundle,Mobile,43.41
+552,Business Continuity Package,Streaming,74.77
+553,Super Ladies Package,Broadband,56.32
+554,Work From Home Bundle,Mobile,88.93
+555,Work From Home Bundle,Streaming,96.54
+556,Stay Home Weekly Bundle,Mobile,22.01
+557,Super Ladies Package,Broadband,44.01
+558,Work From Home Bundle,Streaming,12.01
+559,Work From Home Bundle,Streaming,64.64
+560,Work From Home Bundle,Mobile,53.36
+561,Stay Home Weekly Bundle,Broadband,20.34
+562,Business Continuity Package,Mobile,63.72
+563,Business Continuity Package,Streaming,37.37
+564,Business Continuity Package,Streaming,74.6
+565,Business Continuity Package,Mobile,58.85
+566,Business Continuity Package,Mobile,40.48
+567,Work From Home Bundle,Mobile,48.04
+568,Business Continuity Package,Broadband,85.7
+569,Work From Home Bundle,Streaming,12.78
+570,Stay Home Weekly Bundle,Mobile,99.3
+571,Stay Home Weekly Bundle,Streaming,47.05
+572,Business Continuity Package,Broadband,79.89
+573,Stay Home Weekly Bundle,Streaming,49.98
+574,Business Continuity Package,Streaming,35.97
+575,Work From Home Bundle,Streaming,50.21
+576,Business Continuity Package,Broadband,19.06
+577,Business Continuity Package,Broadband,35.65
+578,Business Continuity Package,Mobile,70.01
+579,Super Ladies Package,Broadband,83.23
+580,Super Ladies Package,Mobile,26.2
+581,Business Continuity Package,Broadband,13.16
+582,Business Continuity Package,Streaming,61.49
+583,Work From Home Bundle,Broadband,32.1
+584,Work From Home Bundle,Streaming,74.41
+585,Work From Home Bundle,Broadband,43.97
+586,Stay Home Weekly Bundle,Streaming,79.67
+587,Business Continuity Package,Mobile,71.2
+588,Business Continuity Package,Streaming,55.12
+589,Stay Home Weekly Bundle,Broadband,86.12
+590,Stay Home Weekly Bundle,Broadband,25.91
+591,Stay Home Weekly Bundle,Broadband,12.32
+592,Business Continuity Package,Mobile,70.94
+593,Super Ladies Package,Mobile,97.22
+594,Stay Home Weekly Bundle,Broadband,91.71
+595,Stay Home Weekly Bundle,Mobile,69.62
+596,Business Continuity Package,Mobile,48.19
+597,Business Continuity Package,Mobile,26.47
+598,Super Ladies Package,Broadband,52.65
+599,Business Continuity Package,Broadband,30.35
+600,Business Continuity Package,Streaming,35.02
+601,Stay Home Weekly Bundle,Mobile,24.14
+602,Work From Home Bundle,Mobile,71.98
+603,Stay Home Weekly Bundle,Streaming,44.27
+604,Stay Home Weekly Bundle,Broadband,18.83
+605,Work From Home Bundle,Streaming,71.08
+606,Work From Home Bundle,Broadband,63.01
+607,Business Continuity Package,Broadband,86.5
+608,Business Continuity Package,Broadband,92.26
+609,Stay Home Weekly Bundle,Mobile,36.45
+610,Stay Home Weekly Bundle,Mobile,27.16
+611,Super Ladies Package,Streaming,11.79
+612,Work From Home Bundle,Streaming,14.82
+613,Work From Home Bundle,Broadband,69.95
+614,Business Continuity Package,Broadband,43.3
+615,Stay Home Weekly Bundle,Broadband,66.59
+616,Business Continuity Package,Streaming,79.89
+617,Business Continuity Package,Mobile,53.86
+618,Work From Home Bundle,Broadband,46.55
+619,Business Continuity Package,Broadband,25.48
+620,Business Continuity Package,Mobile,67.16
+621,Super Ladies Package,Streaming,94.41
+622,Super Ladies Package,Streaming,82.88
+623,Work From Home Bundle,Broadband,87.35
+624,Super Ladies Package,Streaming,14.49
+625,Business Continuity Package,Streaming,71.32
+626,Business Continuity Package,Mobile,67.62
+627,Stay Home Weekly Bundle,Streaming,93.57
+628,Work From Home Bundle,Mobile,79.42
+629,Business Continuity Package,Broadband,13.21
+630,Work From Home Bundle,Mobile,17.2
+631,Work From Home Bundle,Mobile,17.98
+632,Work From Home Bundle,Mobile,79.28
+633,Super Ladies Package,Broadband,51.48
+634,Stay Home Weekly Bundle,Streaming,21.53
+635,Business Continuity Package,Broadband,18.03
+636,Business Continuity Package,Streaming,61.23
+637,Super Ladies Package,Streaming,94.48
+638,Business Continuity Package,Broadband,13.2
+639,Super Ladies Package,Mobile,77.26
+640,Stay Home Weekly Bundle,Streaming,16.12
+641,Stay Home Weekly Bundle,Broadband,39.28
+642,Stay Home Weekly Bundle,Mobile,43.6
+643,Work From Home Bundle,Streaming,73.45
+644,Work From Home Bundle,Broadband,71.73
+645,Stay Home Weekly Bundle,Mobile,29.57
+646,Stay Home Weekly Bundle,Streaming,10.63
+647,Business Continuity Package,Broadband,54.55
+648,Stay Home Weekly Bundle,Streaming,19.09
+649,Business Continuity Package,Streaming,54.67
+650,Business Continuity Package,Mobile,61.82
+651,Work From Home Bundle,Broadband,36.18
+652,Business Continuity Package,Mobile,87.57
+653,Super Ladies Package,Mobile,36.06
+654,Super Ladies Package,Streaming,92.13
+655,Stay Home Weekly Bundle,Broadband,81.13
+656,Stay Home Weekly Bundle,Broadband,50.93
+657,Work From Home Bundle,Streaming,30.71
+658,Business Continuity Package,Mobile,97.21
+659,Business Continuity Package,Broadband,39.03
+660,Stay Home Weekly Bundle,Streaming,36.29
+661,Work From Home Bundle,Broadband,18.93
+662,Super Ladies Package,Streaming,80.48
+663,Business Continuity Package,Mobile,53.01
+664,Stay Home Weekly Bundle,Broadband,98.34
+665,Business Continuity Package,Mobile,12.15
+666,Business Continuity Package,Mobile,64.34
+667,Stay Home Weekly Bundle,Mobile,26.59
+668,Business Continuity Package,Broadband,71.36
+669,Super Ladies Package,Streaming,99.59
+670,Stay Home Weekly Bundle,Broadband,46.38
+671,Business Continuity Package,Streaming,73.89
+672,Work From Home Bundle,Streaming,58.32
+673,Stay Home Weekly Bundle,Broadband,81.16
+674,Work From Home Bundle,Mobile,11.23
+675,Work From Home Bundle,Streaming,50.74
+676,Super Ladies Package,Broadband,82.78
+677,Stay Home Weekly Bundle,Streaming,71.05
+678,Super Ladies Package,Broadband,66.78
+679,Stay Home Weekly Bundle,Streaming,83.87
+680,Super Ladies Package,Mobile,47.69
+681,Business Continuity Package,Broadband,28.08
+682,Work From Home Bundle,Streaming,33.04
+683,Work From Home Bundle,Streaming,70.32
+684,Stay Home Weekly Bundle,Broadband,60.73
+685,Work From Home Bundle,Streaming,11.56
+686,Business Continuity Package,Streaming,49.95
+687,Super Ladies Package,Streaming,18.7
+688,Super Ladies Package,Mobile,87.52
+689,Business Continuity Package,Streaming,39.44
+690,Stay Home Weekly Bundle,Broadband,14.69
+691,Super Ladies Package,Streaming,23.05
+692,Business Continuity Package,Streaming,89.09
+693,Business Continuity Package,Broadband,38.15
+694,Stay Home Weekly Bundle,Streaming,31.28
+695,Business Continuity Package,Mobile,50.33
+696,Super Ladies Package,Mobile,67.16
+697,Work From Home Bundle,Streaming,37.66
+698,Business Continuity Package,Streaming,55.28
+699,Stay Home Weekly Bundle,Mobile,23.0
+700,Stay Home Weekly Bundle,Mobile,47.72
+701,Work From Home Bundle,Streaming,25.14
+702,Super Ladies Package,Streaming,91.71
+703,Super Ladies Package,Streaming,44.36
+704,Business Continuity Package,Broadband,60.67
+705,Business Continuity Package,Broadband,17.59
+706,Work From Home Bundle,Streaming,74.52
+707,Stay Home Weekly Bundle,Streaming,83.43
+708,Super Ladies Package,Broadband,14.39
+709,Super Ladies Package,Broadband,93.84
+710,Business Continuity Package,Streaming,40.78
+711,Business Continuity Package,Mobile,98.06
+712,Work From Home Bundle,Streaming,72.03
+713,Business Continuity Package,Mobile,66.83
+714,Business Continuity Package,Mobile,15.03
+715,Work From Home Bundle,Streaming,56.5
+716,Stay Home Weekly Bundle,Broadband,84.12
+717,Stay Home Weekly Bundle,Broadband,45.82
+718,Stay Home Weekly Bundle,Streaming,82.97
+719,Business Continuity Package,Broadband,60.37
+720,Business Continuity Package,Mobile,71.24
+721,Business Continuity Package,Streaming,57.44
+722,Business Continuity Package,Broadband,76.75
+723,Super Ladies Package,Broadband,45.16
+724,Super Ladies Package,Broadband,73.46
+725,Business Continuity Package,Broadband,25.54
+726,Work From Home Bundle,Broadband,51.75
+727,Business Continuity Package,Streaming,68.53
+728,Work From Home Bundle,Broadband,58.84
+729,Super Ladies Package,Streaming,64.03
+730,Super Ladies Package,Broadband,11.54
+731,Work From Home Bundle,Broadband,50.8
+732,Super Ladies Package,Mobile,81.13
+733,Super Ladies Package,Broadband,84.88
+734,Stay Home Weekly Bundle,Broadband,46.73
+735,Stay Home Weekly Bundle,Mobile,82.8
+736,Business Continuity Package,Broadband,47.79
+737,Work From Home Bundle,Mobile,15.41
+738,Business Continuity Package,Streaming,42.53
+739,Work From Home Bundle,Mobile,34.59
+740,Super Ladies Package,Broadband,84.53
+741,Business Continuity Package,Streaming,15.29
+742,Stay Home Weekly Bundle,Mobile,53.59
+743,Stay Home Weekly Bundle,Broadband,72.67
+744,Stay Home Weekly Bundle,Mobile,11.65
+745,Super Ladies Package,Streaming,97.77
+746,Stay Home Weekly Bundle,Broadband,26.58
+747,Work From Home Bundle,Streaming,64.07
+748,Business Continuity Package,Streaming,62.77
+749,Super Ladies Package,Mobile,32.13
+750,Work From Home Bundle,Streaming,17.11
+751,Work From Home Bundle,Broadband,29.44
+752,Business Continuity Package,Broadband,81.88
+753,Stay Home Weekly Bundle,Broadband,27.39
+754,Super Ladies Package,Mobile,27.79
+755,Super Ladies Package,Broadband,89.01
+756,Super Ladies Package,Mobile,85.27
+757,Work From Home Bundle,Mobile,46.81
+758,Work From Home Bundle,Mobile,64.26
+759,Stay Home Weekly Bundle,Streaming,31.77
+760,Work From Home Bundle,Broadband,66.91
+761,Work From Home Bundle,Broadband,82.95
+762,Super Ladies Package,Broadband,57.62
+763,Stay Home Weekly Bundle,Streaming,86.53
+764,Super Ladies Package,Mobile,68.17
+765,Stay Home Weekly Bundle,Streaming,62.92
+766,Stay Home Weekly Bundle,Streaming,98.28
+767,Work From Home Bundle,Streaming,88.87
+768,Stay Home Weekly Bundle,Broadband,13.42
+769,Business Continuity Package,Broadband,78.88
+770,Business Continuity Package,Streaming,83.54
+771,Stay Home Weekly Bundle,Broadband,22.75
+772,Super Ladies Package,Streaming,34.99
+773,Work From Home Bundle,Streaming,65.26
+774,Business Continuity Package,Mobile,51.03
+775,Work From Home Bundle,Mobile,76.7
+776,Work From Home Bundle,Streaming,64.06
+777,Super Ladies Package,Streaming,73.31
+778,Super Ladies Package,Mobile,87.73
+779,Work From Home Bundle,Broadband,20.41
+780,Super Ladies Package,Streaming,91.85
+781,Super Ladies Package,Broadband,78.52
+782,Work From Home Bundle,Mobile,34.79
+783,Stay Home Weekly Bundle,Mobile,25.94
+784,Super Ladies Package,Broadband,72.05
+785,Business Continuity Package,Streaming,18.24
+786,Stay Home Weekly Bundle,Broadband,87.4
+787,Super Ladies Package,Streaming,10.16
+788,Business Continuity Package,Broadband,33.75
+789,Stay Home Weekly Bundle,Mobile,65.69
+790,Work From Home Bundle,Broadband,97.92
+791,Business Continuity Package,Mobile,37.1
+792,Business Continuity Package,Mobile,85.31
+793,Super Ladies Package,Broadband,91.88
+794,Stay Home Weekly Bundle,Broadband,17.68
+795,Work From Home Bundle,Mobile,18.75
+796,Stay Home Weekly Bundle,Mobile,89.08
+797,Super Ladies Package,Broadband,16.81
+798,Super Ladies Package,Streaming,23.84
+799,Business Continuity Package,Broadband,45.68
+800,Super Ladies Package,Streaming,18.46
+801,Super Ladies Package,Streaming,38.96
+802,Business Continuity Package,Streaming,33.2
+803,Super Ladies Package,Broadband,53.94
+804,Work From Home Bundle,Mobile,17.25
+805,Business Continuity Package,Mobile,97.55
+806,Business Continuity Package,Streaming,71.17
+807,Stay Home Weekly Bundle,Broadband,45.1
+808,Stay Home Weekly Bundle,Streaming,53.77
+809,Work From Home Bundle,Mobile,77.54
+810,Business Continuity Package,Streaming,99.46
+811,Super Ladies Package,Broadband,63.52
+812,Super Ladies Package,Mobile,44.88
+813,Super Ladies Package,Mobile,17.21
+814,Work From Home Bundle,Broadband,71.21
+815,Business Continuity Package,Streaming,87.99
+816,Stay Home Weekly Bundle,Streaming,58.38
+817,Work From Home Bundle,Streaming,91.7
+818,Business Continuity Package,Streaming,57.11
+819,Business Continuity Package,Mobile,18.74
+820,Super Ladies Package,Streaming,97.95
+821,Work From Home Bundle,Streaming,57.7
+822,Stay Home Weekly Bundle,Streaming,40.89
+823,Business Continuity Package,Mobile,95.22
+824,Stay Home Weekly Bundle,Streaming,86.63
+825,Super Ladies Package,Streaming,76.09
+826,Business Continuity Package,Broadband,99.87
+827,Work From Home Bundle,Streaming,54.72
+828,Super Ladies Package,Broadband,25.33
+829,Super Ladies Package,Mobile,32.95
+830,Business Continuity Package,Broadband,46.86
+831,Business Continuity Package,Streaming,11.0
+832,Business Continuity Package,Streaming,23.54
+833,Business Continuity Package,Broadband,70.63
+834,Business Continuity Package,Mobile,59.21
+835,Work From Home Bundle,Mobile,91.06
+836,Stay Home Weekly Bundle,Mobile,29.67
+837,Super Ladies Package,Broadband,81.8
+838,Stay Home Weekly Bundle,Broadband,58.51
+839,Stay Home Weekly Bundle,Broadband,69.91
+840,Business Continuity Package,Mobile,40.79
+841,Business Continuity Package,Streaming,21.19
+842,Work From Home Bundle,Streaming,88.13
+843,Work From Home Bundle,Streaming,20.54
+844,Stay Home Weekly Bundle,Broadband,53.22
+845,Stay Home Weekly Bundle,Streaming,26.17
+846,Stay Home Weekly Bundle,Streaming,87.19
+847,Business Continuity Package,Streaming,58.74
+848,Super Ladies Package,Broadband,77.12
+849,Super Ladies Package,Broadband,97.55
+850,Super Ladies Package,Mobile,94.62
+851,Stay Home Weekly Bundle,Streaming,37.04
+852,Work From Home Bundle,Streaming,38.12
+853,Business Continuity Package,Streaming,25.99
+854,Super Ladies Package,Streaming,41.92
+855,Business Continuity Package,Broadband,77.04
+856,Business Continuity Package,Streaming,17.61
+857,Super Ladies Package,Streaming,64.96
+858,Stay Home Weekly Bundle,Mobile,25.33
+859,Stay Home Weekly Bundle,Broadband,34.57
+860,Work From Home Bundle,Broadband,12.85
+861,Super Ladies Package,Streaming,11.79
+862,Work From Home Bundle,Streaming,90.37
+863,Work From Home Bundle,Streaming,91.44
+864,Super Ladies Package,Mobile,14.92
+865,Work From Home Bundle,Mobile,69.57
+866,Work From Home Bundle,Streaming,85.74
+867,Super Ladies Package,Broadband,41.92
+868,Stay Home Weekly Bundle,Streaming,37.18
+869,Stay Home Weekly Bundle,Broadband,13.07
+870,Stay Home Weekly Bundle,Mobile,36.28
+871,Stay Home Weekly Bundle,Streaming,87.32
+872,Super Ladies Package,Streaming,13.51
+873,Work From Home Bundle,Streaming,76.13
+874,Stay Home Weekly Bundle,Streaming,85.05
+875,Super Ladies Package,Streaming,23.9
+876,Work From Home Bundle,Broadband,91.11
+877,Super Ladies Package,Streaming,77.41
+878,Work From Home Bundle,Streaming,12.83
+879,Super Ladies Package,Streaming,71.27
+880,Business Continuity Package,Mobile,51.33
+881,Work From Home Bundle,Mobile,33.75
+882,Stay Home Weekly Bundle,Broadband,72.36
+883,Business Continuity Package,Streaming,48.71
+884,Stay Home Weekly Bundle,Mobile,87.01
+885,Stay Home Weekly Bundle,Streaming,77.09
+886,Work From Home Bundle,Mobile,92.2
+887,Business Continuity Package,Mobile,76.59
+888,Super Ladies Package,Broadband,39.87
+889,Stay Home Weekly Bundle,Mobile,72.62
+890,Stay Home Weekly Bundle,Mobile,58.01
+891,Work From Home Bundle,Streaming,33.13
+892,Super Ladies Package,Broadband,28.74
+893,Super Ladies Package,Broadband,78.86
+894,Stay Home Weekly Bundle,Broadband,81.38
+895,Stay Home Weekly Bundle,Streaming,57.33
+896,Super Ladies Package,Streaming,10.21
+897,Business Continuity Package,Broadband,11.71
+898,Work From Home Bundle,Broadband,89.48
+899,Business Continuity Package,Streaming,88.57
+900,Stay Home Weekly Bundle,Streaming,16.96
+901,Work From Home Bundle,Streaming,29.29
+902,Stay Home Weekly Bundle,Streaming,42.88
+903,Super Ladies Package,Mobile,28.29
+904,Stay Home Weekly Bundle,Streaming,92.11
+905,Super Ladies Package,Mobile,56.08
+906,Business Continuity Package,Broadband,16.04
+907,Super Ladies Package,Streaming,86.5
+908,Super Ladies Package,Mobile,27.64
+909,Business Continuity Package,Broadband,34.75
+910,Stay Home Weekly Bundle,Broadband,61.97
+911,Work From Home Bundle,Streaming,48.49
+912,Super Ladies Package,Broadband,89.81
+913,Work From Home Bundle,Mobile,63.82
+914,Business Continuity Package,Broadband,61.84
+915,Business Continuity Package,Broadband,38.69
+916,Work From Home Bundle,Mobile,60.83
+917,Super Ladies Package,Streaming,53.52
+918,Work From Home Bundle,Mobile,39.28
+919,Work From Home Bundle,Mobile,32.26
+920,Business Continuity Package,Mobile,68.01
+921,Stay Home Weekly Bundle,Streaming,19.09
+922,Stay Home Weekly Bundle,Broadband,97.67
+923,Super Ladies Package,Streaming,88.4
+924,Business Continuity Package,Mobile,33.24
+925,Business Continuity Package,Broadband,96.24
+926,Business Continuity Package,Broadband,82.22
+927,Stay Home Weekly Bundle,Broadband,31.79
+928,Stay Home Weekly Bundle,Mobile,12.11
+929,Business Continuity Package,Mobile,38.71
+930,Business Continuity Package,Mobile,69.26
+931,Super Ladies Package,Broadband,71.26
+932,Business Continuity Package,Broadband,81.92
+933,Work From Home Bundle,Broadband,17.89
+934,Work From Home Bundle,Broadband,25.98
+935,Stay Home Weekly Bundle,Streaming,25.55
+936,Business Continuity Package,Streaming,17.6
+937,Business Continuity Package,Broadband,89.99
+938,Stay Home Weekly Bundle,Broadband,73.64
+939,Super Ladies Package,Streaming,63.68
+940,Business Continuity Package,Streaming,89.1
+941,Business Continuity Package,Broadband,58.12
+942,Super Ladies Package,Broadband,86.57
+943,Super Ladies Package,Broadband,97.49
+944,Stay Home Weekly Bundle,Streaming,43.88
+945,Business Continuity Package,Streaming,30.06
+946,Super Ladies Package,Mobile,71.55
+947,Super Ladies Package,Broadband,19.76
+948,Work From Home Bundle,Streaming,18.18
+949,Stay Home Weekly Bundle,Mobile,87.65
+950,Super Ladies Package,Broadband,80.56
+951,Business Continuity Package,Mobile,53.95
+952,Business Continuity Package,Streaming,86.85
+953,Business Continuity Package,Streaming,16.68
+954,Stay Home Weekly Bundle,Streaming,30.73
+955,Business Continuity Package,Streaming,66.19
+956,Stay Home Weekly Bundle,Broadband,51.66
+957,Stay Home Weekly Bundle,Streaming,39.77
+958,Super Ladies Package,Broadband,87.09
+959,Business Continuity Package,Broadband,51.99
+960,Work From Home Bundle,Streaming,28.7
+961,Business Continuity Package,Streaming,31.0
+962,Business Continuity Package,Mobile,40.3
+963,Super Ladies Package,Streaming,17.57
+964,Stay Home Weekly Bundle,Streaming,22.18
+965,Super Ladies Package,Broadband,35.32
+966,Super Ladies Package,Streaming,17.24
+967,Super Ladies Package,Mobile,84.93
+968,Work From Home Bundle,Broadband,53.29
+969,Stay Home Weekly Bundle,Streaming,50.94
+970,Business Continuity Package,Streaming,35.29
+971,Super Ladies Package,Broadband,98.16
+972,Work From Home Bundle,Streaming,81.35
+973,Business Continuity Package,Streaming,38.13
+974,Stay Home Weekly Bundle,Broadband,34.38
+975,Work From Home Bundle,Broadband,57.2
+976,Business Continuity Package,Streaming,73.18
+977,Work From Home Bundle,Broadband,79.21
+978,Stay Home Weekly Bundle,Mobile,42.43
+979,Business Continuity Package,Mobile,99.39
+980,Work From Home Bundle,Broadband,73.94
+981,Business Continuity Package,Streaming,41.27
+982,Stay Home Weekly Bundle,Mobile,32.69
+983,Work From Home Bundle,Broadband,42.64
+984,Stay Home Weekly Bundle,Broadband,56.74
+985,Work From Home Bundle,Mobile,36.32
+986,Work From Home Bundle,Streaming,28.09
+987,Stay Home Weekly Bundle,Mobile,77.53
+988,Super Ladies Package,Broadband,23.88
+989,Business Continuity Package,Mobile,36.44
+990,Business Continuity Package,Mobile,76.81
+991,Business Continuity Package,Mobile,27.09
+992,Work From Home Bundle,Mobile,17.17
+993,Super Ladies Package,Broadband,61.15
+994,Work From Home Bundle,Streaming,83.81
+995,Work From Home Bundle,Broadband,86.52
+996,Work From Home Bundle,Mobile,56.02
+997,Stay Home Weekly Bundle,Mobile,33.1
+998,Super Ladies Package,Mobile,17.05
+999,Business Continuity Package,Mobile,22.92
+1000,Stay Home Weekly Bundle,Mobile,31.31
